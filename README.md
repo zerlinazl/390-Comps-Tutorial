@@ -5,19 +5,21 @@ To run this code, you must have Librosa, Numpy, and Matplotlib libraries install
 
 Librosa is a python package to aid in music information retrieval systems. It contains functions to estimate tempo, decompose audio into spectrograms, time warping, and filtering, among others.
 
-To install: 
-python -m pip install -U pip
-pip install librosa
+To install with pip: 
+
+	python -m pip install -U pip
+	pip install librosa
 
 Numpy is an open source library that helps with numerical computation in Python. It is commonly used in matrix mathematics.
 
-To install: pip install numpy
+To install with pip: 
+	pip install numpy
 
 Matplotlib is used to create visualizations and animations in Python. 
 
-Matplotlib can be installed with pip:
+Matplotlib can also be installed with pip:
 
-python -m pip install -U matplotlib
+	python -m pip install -U matplotlib
 
 The current versions of all three libraries, which are Librosa 0.10.0, Numpy 1.24.3, and Matplotlib 3.7.1, all work with this code. Older versions are highly likely to work as well.
 

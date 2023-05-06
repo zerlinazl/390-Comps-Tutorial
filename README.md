@@ -13,6 +13,7 @@ To install with pip:
 Numpy is an open source library that helps with numerical computation in Python. It is commonly used in matrix mathematics.
 
 To install with pip: 
+
 	pip install numpy
 
 Matplotlib is used to create visualizations and animations in Python. 
